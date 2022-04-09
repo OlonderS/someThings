@@ -1,0 +1,13 @@
+H:\cwiczenia po\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.csprojAssemblyReference.cache
+H:\cwiczenia po\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.csproj.CoreCompileInputs.cache
+H:\cwiczenia po\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.pdb
+H:\cwiczenia po\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.pdb
+H:\cwiczenia po\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.dll.config
+H:\cwiczenia po\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.dll
+H:\cwiczenia po\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.dll
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.pdb
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.pdb
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.exe.config
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\bin\Debug\cwiczenia1.exe
+C:\Users\kamil\source\repos\cwiczenia1\cwiczenia1\obj\Debug\cwiczenia1.exe

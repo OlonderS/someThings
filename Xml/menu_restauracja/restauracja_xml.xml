@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="restauracja_xslt.xslt"?>
+<menu>
+  <grupa>
+    <tytuł>Śniadania</tytuł>
+    <danie cena="10" waluta = "PLN" czas_oczekiwania = "30 min" >
+      <nazwa>Jajecznica</nazwa>
+      <opcja>
+        <Onazwa>Z Kiełbasą</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Extra kiełbasa</Dnazwa>
+        </dodatek>
+      </opcja>
+      <opcja>
+        <Onazwa>Z Boczkiem</Onazwa>
+        <dodatek cena ="3" waluta = "PLN">
+          <Dnazwa>Extra boczek</Dnazwa>
+        </dodatek>
+      </opcja>
+    </danie>
+    <danie cena="10" waluta = "PLN" czas_oczekiwania = "30 min">
+      <nazwa>Tosty</nazwa>
+      <opcja>
+        <Onazwa>Z szynką</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa >Ketchup</Dnazwa>
+        </dodatek>
+      </opcja>
+      <opcja>
+        <Onazwa>Z serem</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa >Pomidor</Dnazwa>
+        </dodatek>
+      </opcja>
+    </danie>
+    <danie cena="10" waluta = "PLN" czas_oczekiwania = "15 min">
+      <nazwa>Pajda chelba z dżemem</nazwa>
+      <opcja>
+        <Onazwa>Wiśniowym</Onazwa>
+      </opcja>
+      <opcja>
+        <Onazwa>Truskawkowym</Onazwa>
+      </opcja>
+    </danie>
+    <danie cena="10" waluta = "PLN" czas_oczekiwania = "20 min" >
+      <nazwa>Owsianka</nazwa>
+      <opcja>
+        <Onazwa>Owocowa</Onazwa>   
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Extra owoce</Dnazwa>
+        </dodatek>  
+      </opcja>
+      <opcja>
+        <Onazwa>Klasyczna</Onazwa>      
+      </opcja>
+    </danie>
+  </grupa>
+  <grupa>
+    <tytuł>Obiady</tytuł>
+    <danie cena="22" waluta = "PLN" czas_oczekiwania="30 min">
+      <nazwa>Ziemniaki ze</nazwa>
+      <opcja>
+       <Onazwa>Schabowym</Onazwa>
+       <dodatek cena ="3" waluta = "PLN">
+        <Dnazwa>Ogórek kiszony</Dnazwa>
+       </dodatek>
+       <dodatek cena ="4" waluta = "PLN">
+        <Dnazwa>Mizeria</Dnazwa>
+       </dodatek>
+      </opcja>
+      <opcja>
+       <Onazwa>Schabem</Onazwa>
+       <dodatek cena ="3" waluta = "PLN">
+        <Dnazwa>Ogórek kiszony</Dnazwa>
+       </dodatek>
+       <dodatek cena ="4" waluta = "PLN">
+        <Dnazwa>Mizeria</Dnazwa>
+       </dodatek>
+      </opcja>
+    </danie>
+    <danie cena="20" waluta = "PLN" czas_oczekiwania="20 min">
+      <nazwa>Spagetti</nazwa>
+      <opcja>
+       <Onazwa>Bolongnese</Onazwa>
+      </opcja>
+      <opcja>
+       <Onazwa>Carbonara</Onazwa>
+      </opcja>
+    </danie>
+    <danie cena="20" waluta = "PLN" czas_oczekiwania="20 min">
+      <nazwa>Pizza(sos, ser, pieczarki) z </nazwa>
+      <opcja>
+        <Onazwa>Dodatki</Onazwa>  
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Papryka</Dnazwa>        
+        </dodatek> 
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Ananas</Dnazwa>        
+        </dodatek>
+        <dodatek cena ="3" waluta = "PLN">
+          <Dnazwa>Szynka</Dnazwa>        
+        </dodatek>
+        <dodatek cena ="4" waluta = "PLN">
+          <Dnazwa>Kiełbasa</Dnazwa>        
+        </dodatek>
+        <dodatek cena ="5" waluta = "PLN">
+          <Dnazwa>Krewetki</Dnazwa>        
+        </dodatek>
+      </opcja>
+    </danie>
+  </grupa>
+  <grupa>
+    <tytuł>Zupy</tytuł>  
+    <danie cena ="10" waluta = "PLN" czas_oczekiwania = "15 min" >
+      <nazwa>Rosół z</nazwa>
+      <opcja>
+        <Onazwa>Ryżem</Onazwa>      
+      </opcja>
+      <opcja>
+        <Onazwa>Makaronem</Onazwa>      
+      </opcja>
+    </danie>
+    <danie cena ="12" waluta = "PLN" czas_oczekiwania = "15 min" >
+      <nazwa>Pomidorowa z </nazwa>
+      <opcja>
+        <Onazwa>Ryżem</Onazwa>      
+      </opcja>
+      <opcja>
+        <Onazwa>Makaronem</Onazwa>      
+      </opcja>
+    </danie>
+    <danie cena ="9" waluta = "PLN" czas_oczekiwania = "15 min" >
+      <nazwa>Ogórkowa </nazwa>
+    </danie>
+  </grupa>
+  <grupa>
+    <tytuł>Kolacje</tytuł>  
+    <danie cena ="10" waluta = "PLN" czas_oczekiwania = "30 min" >
+      <nazwa>Śledzie</nazwa>
+      <opcja>
+       <Onazwa>W occie</Onazwa>
+      </opcja>
+      <opcja>
+       <Onazwa>W oleju</Onazwa>
+      </opcja>
+    </danie>
+    <danie cena ="7" waluta = "PLN" czas_oczekiwania = "5 min" >
+      <nazwa>Platki z mlekiem</nazwa>
+      <opcja>
+        <Onazwa>Ciniminis</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Bakalie</Dnazwa>        
+        </dodatek>
+      </opcja>
+      <opcja>
+        <Onazwa>Szokoszki</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa>Sok</Dnazwa>        
+        </dodatek>
+      </opcja>
+    </danie>
+    <danie cena="10" waluta = "PLN" czas_oczekiwania = "30 min">
+      <nazwa>Chlebojajek</nazwa>
+      <opcja>
+        <Onazwa>Z szynką</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa >Ketchup</Dnazwa>
+        </dodatek>
+      </opcja>
+      <opcja>
+        <Onazwa>Z serem</Onazwa>
+        <dodatek cena ="2" waluta = "PLN">
+          <Dnazwa >Pomidor</Dnazwa>
+        </dodatek>
+      </opcja>
+    </danie>
+  </grupa>
+  <grupa>
+    <tytuł>Napoje</tytuł>  
+    <danie cena ="3" waluta = "PLN" czas_oczekiwania = "5 min" >
+      <nazwa>Woda</nazwa>        
+      <opcja>
+        <Onazwa>Gazowana</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cytryna</Dnazwa>
+        </dodatek>
+      </opcja>   
+      <opcja>
+        <Onazwa>Niegazowana</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cytryna</Dnazwa>
+        </dodatek>
+      </opcja>   
+    </danie>
+    <danie cena ="5" waluta = "PLN" czas_oczekiwania = "10 min" >
+      <nazwa>Świeży sok</nazwa>
+      <opcja>
+       <Onazwa>Pomarańczowy</Onazwa>
+      </opcja>
+      <opcja>
+       <Onazwa>Jabłkowy</Onazwa>
+      </opcja>
+      <opcja>
+       <Onazwa>Gruszkowy</Onazwa>
+      </opcja>   
+    </danie>
+    <danie cena ="5" waluta = "PLN" czas_oczekiwania = "10 min" >
+      <nazwa>Herbata</nazwa>        
+      <opcja>
+        <Onazwa>Czarna</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cytryna</Dnazwa>
+        </dodatek>
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cukier</Dnazwa>
+        </dodatek>
+      </opcja>    
+      <opcja>
+        <Onazwa>Zielona</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cytryna</Dnazwa>
+        </dodatek>
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cukier</Dnazwa>
+        </dodatek>
+      </opcja>    
+    </danie>
+    <danie cena ="6" waluta = "PLN" czas_oczekiwania = "10 min" >
+      <nazwa>Kawa</nazwa>        
+      <opcja>
+        <Onazwa>Rozpuszczalna</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Mleko</Dnazwa>
+        </dodatek>
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cukier</Dnazwa>
+        </dodatek>
+      </opcja>    
+      <opcja>
+        <Onazwa>Espresso</Onazwa>  
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Mleko</Dnazwa>
+        </dodatek>
+        <dodatek cena ="1" waluta = "PLN">
+          <Dnazwa>Cukier</Dnazwa>
+        </dodatek>
+      </opcja>   
+    </danie>
+  </grupa>
+  <strona adres="https://restauracjanr1.pl">Odwiedź nas na naszej stronie</strona>
+</menu>

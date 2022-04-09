@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Pracownik" Height="400.226" Width="708.578">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Button Name ="DodajdoMagBut" Content="Dodaj do magazynu" HorizontalAlignment="Left" Height="50" Margin="121.89,105,0,0" VerticalAlignment="Top" Width="293" Click="DodajdoMagBut_Click" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="46" Margin="172.89,10,0,0" TextWrapping="Wrap" Text="Pracownik" VerticalAlignment="Top" Width="242" FontSize="18" FontFamily="Verdana" Grid.Column="1"/>
+        <Button Name ="SprawdzStanBut" Content="Asortyment" HorizontalAlignment="Left" Margin="121.89,181,0,0" VerticalAlignment="Top" Width="293" Height="52" Click="SprawdzStanBut_Click" Grid.Column="1"/>
+        <Label Content="Kasa:" HorizontalAlignment="Left" Height="35" Margin="427.89,68,0,0" VerticalAlignment="Top" Width="186" FontSize= "18" Grid.Column="1"  />
+        <Label FontSize="16" Name ="StanKasyLabel" Content="" HorizontalAlignment="Left" Height="35" Margin="478.6,68,0,0" VerticalAlignment="Top" Width="125" Grid.Column="1"/>
+
+    </Grid>
+</Window>

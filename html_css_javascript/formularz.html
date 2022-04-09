@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pl-pl">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Formularz</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" media="screen" href="Styles/form_style.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+      :root {
+          --niebieski:rgb(15, 50, 230);
+      }
+
+      body {
+          margin: 0px;
+          padding-top: 0px;
+          font-family: "Source Sans Pro", sans-serif;
+          color: white;
+      }
+
+      form {
+          width: 500px;
+          margin-left: auto;
+          margin-right: auto;
+          padding-bottom: 2%;
+          text-align: justify;
+          text-justify: auto;
+      }
+
+      .header {
+          text-align: center;
+          background-color:  var(--niebieski);
+          padding-bottom: 5px;
+          padding-top: 5px;
+          font-size: 25px;
+          margin-top: 0px;
+          margin-left: auto;
+          margin-right: auto;
+          border-radius: 10px;
+      }
+
+      fieldset {
+          background-color:  var(--niebieski);
+          border: 0px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px 5px darkgray;
+          margin-top: 15px;
+      }
+
+      legend{
+          border: 3px dashed white;
+          border-radius: 10px;
+          background-color: var(--niebieski);
+          padding: 3px;
+      }
+
+      #WF, #WD {
+          border-radius: 10px;
+          border: 2px solid white;
+          margin: 2px;
+          width: 50%;
+          height: 40px;
+          color: white;
+          background-color: var(--niebieski);
+      }
+      #WF, #WD:hover {
+          filter: brightness(200%);
+      }
+
+      .textowe {
+          background-color: aquamarine;
+      }
+
+      .buttons {
+          display: flex;
+          flex-direction: row;
+      }
+
+      .plec {
+        display: flex; 
+        flex-direction: row;
+        list-style-type: none; 
+        padding: 0px;
+      }
+
+      .literatura {
+        list-style-type: none; 
+        padding: 0px;
+      }
+
+    </style>
+    <script>      
+      $(document).ready(function(){
+        $(".textpwe").click(function() {
+          $(this).value="";
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <form>
+      <fieldset class="header">Formularz</fieldset>
+      <fieldset>
+        <legend>Podaj imię</legend>
+        <input class="textowe" size="65" value = "Tutaj wpisz imię">
+      </fieldset>
+      <fieldset>
+        <legend>Podaj nazwisko</legend>
+        <input class="textowe" type="text" size="65" value = "Tutaj wpisz nazwisko">
+      </fieldset>
+      <fieldset>
+        <legend>Podaj płeć</legend>
+        <ul class = "plec">
+          <li>
+            <input type="radio" id="M" name="plec" value="Mężczyzna">
+            <label for="M">Mężczyzna</label>
+          </li>
+          <li>
+            <input type="radio" id="K" name="plec" value="Kobieta">
+            <label for="K">Kobieta</label>
+          </li>
+          <li>
+            <input type="radio" id="NW" name="plec" value="Nie wiem">
+            <label for="NW">Nie wiem</label>
+          </li>
+        </ul>
+      </fieldset>
+      <fieldset>
+        <legend>Skąd pochodzisz?</legend>
+        <input list="pochodzenie">
+        <datalist id="pochodzenie">
+          <option value="Ze wsi">
+          <option value="Z miasta">
+          <option value="Z metropolii">
+        </datalist>
+      </fieldset>
+      <fieldset>
+        <legend>Wybierz ulubiony kolor</legend>
+        <input list="kolor" >
+        <datalist id="kolor">
+          <option value="Czarny">
+          <option value="Biały">
+          <option value="Kolorowy">
+        </datalist>
+      </fieldset>
+      <fieldset>
+        <legend>Wybierz ulubioną literaturę</legend>
+        <ul class = "literatura">
+          <li>
+            <input type="checkbox" value="Fantasy">
+            <label for="M">Fantasy</label>
+          </li>
+          <li>
+            <input type="checkbox" value="Kryminały">
+            <label for="K">Kryminały</label>
+          </li>
+          <li>
+            <input type="checkbox" value="Piękna">
+            <label for="NW">Piękna</label>
+          </li>
+        </ul>
+      </fieldset>
+      <fieldset>
+        <legend>Napisz mi kilka słów o sobie</legend>
+        <textarea class="textowe" id="pole" rows="5" cols="60">Tutaj napisz coś</textarea>
+      </fieldset>
+      <fieldset class = "buttons">
+        <legend>Podsumowanie</legend>
+          <input type="submit" id="WF" value="Wyślij formularz">
+          <input type="submit" id="WD" value="Wyślij dane">
+      </fieldset>
+    </form>
+  </body>
+
+</html>

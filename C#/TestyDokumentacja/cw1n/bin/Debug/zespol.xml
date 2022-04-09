@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zespol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kierownik PESEL="03231348567">
+    <Imie>Zuzanna</Imie>
+    <Nazwisko>Muzyk</Nazwisko>
+    <Plec>K</Plec>
+    <DataUrodzenia>2003-03-13T00:00:00</DataUrodzenia>
+    <Doswiadczenie>10</Doswiadczenie>
+  </Kierownik>
+  <Nazwa>ULTRAVOX</Nazwa>
+  <Czlonkowie>
+    <CzlonekZespolu PESEL="88092973866">
+      <Imie>Beata</Imie>
+      <Nazwisko>Nowak</Nazwisko>
+      <Plec>K</Plec>
+      <DataUrodzenia>1988-09-29T00:00:00</DataUrodzenia>
+      <Funkcja>projektant</Funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu PESEL="93070902837">
+      <Imie>Adam</Imie>
+      <Nazwisko>Nowak</Nazwisko>
+      <Plec>M</Plec>
+      <DataUrodzenia>1993-07-09T00:00:00</DataUrodzenia>
+      <Funkcja>programista</Funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu PESEL="99122422072">
+      <Imie>Witold</Imie>
+      <Nazwisko>Adamski</Nazwisko>
+      <Plec>M</Plec>
+      <DataUrodzenia>1999-12-24T00:00:00</DataUrodzenia>
+      <Funkcja>projektant</Funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu PESEL="02122789053">
+      <Imie>Ewa</Imie>
+      <Nazwisko>Misiak</Nazwisko>
+      <Plec>K</Plec>
+      <DataUrodzenia>2002-12-27T00:00:00</DataUrodzenia>
+      <Funkcja>sekretarz</Funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu PESEL="99081911098">
+      <Imie>Katarzyna</Imie>
+      <Nazwisko>Słowik</Nazwisko>
+      <Plec>K</Plec>
+      <DataUrodzenia>1999-08-19T00:00:00</DataUrodzenia>
+      <Funkcja>programista</Funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu PESEL="83120123318">
+      <Imie>Ludwik</Imie>
+      <Nazwisko>Mielcarz</Nazwisko>
+      <Plec>M</Plec>
+      <DataUrodzenia>1983-12-01T00:00:00</DataUrodzenia>
+      <Funkcja>technik</Funkcja>
+    </CzlonekZespolu>
+  </Czlonkowie>
+</Zespol>

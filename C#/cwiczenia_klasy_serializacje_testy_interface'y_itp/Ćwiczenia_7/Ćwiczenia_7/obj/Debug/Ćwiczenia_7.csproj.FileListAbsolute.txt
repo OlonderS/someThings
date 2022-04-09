@@ -1,0 +1,14 @@
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.csprojResolveAssemblyReference.cache
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.csproj.CoreCompileInputs.cache
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.exe.config
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.exe
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.pdb
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.exe
+D:\NAUKA\IIE\III Semestr\PO\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.pdb
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.csprojResolveAssemblyReference.cache
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.csproj.CoreCompileInputs.cache
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.exe
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\obj\Debug\Ćwiczenia_7.pdb
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.exe.config
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.exe
+D:\NAUKA\IIE\III Semestr\PO\Laborki\Ćw 7\Ćwiczenia_7\Ćwiczenia_7\bin\Debug\Ćwiczenia_7.pdb

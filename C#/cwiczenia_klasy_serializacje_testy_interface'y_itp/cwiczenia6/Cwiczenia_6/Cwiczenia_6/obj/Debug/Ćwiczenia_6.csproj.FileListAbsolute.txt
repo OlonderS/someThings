@@ -1,0 +1,7 @@
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\bin\Debug\Cwiczenia_6.exe.config
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\bin\Debug\Cwiczenia_6.exe
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\bin\Debug\Cwiczenia_6.pdb
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\obj\Debug\Ćwiczenia_6.csprojResolveAssemblyReference.cache
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\obj\Debug\Ćwiczenia_6.csproj.CoreCompileInputs.cache
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\obj\Debug\Cwiczenia_6.exe
+D:\NAUKA\IIE\III Semestr\PO\Ćw 6\Ćwiczenia_6\Cwiczenia_6\Cwiczenia_6\obj\Debug\Cwiczenia_6.pdb

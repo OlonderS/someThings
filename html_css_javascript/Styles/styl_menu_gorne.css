@@ -1,0 +1,64 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 1;
+  background-color: black;
+  color: red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-top {
+  display: flex;
+  justify-content: right;
+}
+
+.nav-top li {
+  padding-right: 50px;
+  display: inline;
+}
+
+.nazwa {
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+a:hover {
+  background-color: gray;
+}
+
+.logo,
+.op2 {
+  display: none;
+}
+
+@media only screen and (max-width: 900px) {
+  .nazwa,
+  .op2 {
+    display: none;
+  }
+
+  .logo {
+    display: flex;
+    padding-left: 30px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .nazwa,
+  .op1 {
+    display: none;
+  }
+
+  .logo {
+    display: flex;
+    padding-left: 30px;
+  }
+
+  .op2 {
+    display: flex;
+  }
+}

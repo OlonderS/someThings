@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp2.WindowDodajProdukt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="WindowDodajProdukt" Height="450" Width="581.603">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="209*"/>
+            <RowDefinition Height="211*"/>
+        </Grid.RowDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="54" Margin="33,41,0,0" TextWrapping="Wrap" Text="Podaj Ilosc" VerticalAlignment="Top" Width="279" Name ="PodajIlosc" FontSize="16"/>
+        <ListView Name ="ListaDoWyboru"  HorizontalAlignment="Left" Height="197" Margin="33,118,0,0" VerticalAlignment="Top" Width="375" Grid.RowSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Wybierz" HorizontalAlignment="Left" Height="39" Margin="131,133.2,0,0" VerticalAlignment="Top" Width="181" Click="button_Wybierz_Click" Grid.Row="1"/>
+        <Label Name="WarningLabel" FontStyle="Normal" FontSize="12"  Foreground="#FFFF0606" Content="" HorizontalAlignment="Left" Height="37" Margin="376,135.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="155"/>
+    </Grid>
+</Window>

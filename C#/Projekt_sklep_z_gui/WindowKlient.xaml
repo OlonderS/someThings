@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp2.WindowKlient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Klient" Height="450" Width="800">
+    <Grid>
+        <Button Content="Dodaj Produkt" HorizontalAlignment="Left" Height="50" Margin="104,40,0,0" VerticalAlignment="Top" Width="193" Name="DodajProduktButton" Click="DodajProduktButton_Click"/>
+        <Button Content="UsunProdukt" HorizontalAlignment="Left" Height="40" Margin="104,95,0,0" VerticalAlignment="Top" Width="193" Name ="UsunProduktButton" Click="button_Usun_Click"/>
+        <Button Content="zmień Liczbę" HorizontalAlignment="Left" Height="41" Margin="104,257,0,0" VerticalAlignment="Top" Width="193" Name ="ZmienIloscButton" Click="ZmienIloscButton_Click"/>
+        <Label Content="" HorizontalAlignment="Left" Height="176" Margin="10,244,0,0" VerticalAlignment="Top" Width="213"  Name="ListaZakupówLabel" />
+        <Button Content="Idź Dokasy" HorizontalAlignment="Left" Height="65" Margin="528,333,0,0" VerticalAlignment="Top" Width="238" Name ="IdzDKasyButton" Click="IdzDKasyButton_Click"/>
+        <ListView Name="ListaZakupowOFF" HorizontalAlignment="Left" Height="238" Margin="513,40,0,0" VerticalAlignment="Top" Width="253" SelectionChanged="ListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Odśwież" Click ="Button_Click_Odswiez" HorizontalAlignment="Left" Height="42" Margin="398,307,0,0" VerticalAlignment="Top" Width="93"/>
+        <Button  Name ="przyciskSortuj" Content="Sortuj" HorizontalAlignment="Left" Height="46" Margin="398,256,0,0" VerticalAlignment="Top" Width="93" Click="przyciskSortuj_Click"/>
+        <Label  Name ="KwotaLabel" Content="" HorizontalAlignment="Left" Height="33" Margin="643,283,0,0" VerticalAlignment="Top" Width="123" FontSize="16"/>
+        <TextBox Name="IloscTextBox" HorizontalAlignment="Left" Height="34" Margin="104,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="193" FontSize="16"/>
+        <Label  FontSize="16"  Content="Do zapłaty:" HorizontalAlignment="Left" Height="33" Margin="528,285,0,0" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.015,0.43"/>
+        <Label Content="Podaj nową liczbę" HorizontalAlignment="Left" Height="30" Margin="104,175,0,0" VerticalAlignment="Top" Width="193"/>
+
+    </Grid>
+</Window>

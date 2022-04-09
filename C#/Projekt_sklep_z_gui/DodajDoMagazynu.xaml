@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp2.DodajDoMagazynu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="DodajDoMagazynu" Height="395.147" Width="594.808">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="453*"/>
+            <ColumnDefinition Width="155*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox HorizontalAlignment="Left" Height="57" Margin="117,31,0,0" VerticalAlignment="Top" Width="348" Name="KategoriaComboBox" Grid.ColumnSpan="2">        </ComboBox>
+        <Button  Content="Wprowadz Dane" HorizontalAlignment="Left" Height="71" Margin="140,217,0,0" VerticalAlignment="Top" Width="288" Name="WprowadzDaneButton" Click="WprowadzDaneButton_Click"/>
+    </Grid>
+</Window>

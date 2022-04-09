@@ -1,0 +1,13 @@
+C:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\bin\Debug\cw1n.pdb
+C:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\obj\Debug\cw1n.csproj.CoreCompileInputs.cache
+C:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\obj\Debug\cw1n.pdb
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\bin\Debug\cw1n.exe.config
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\bin\Debug\cw1n.exe
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\cw1n\cw1n\obj\Debug\cw1n.exe
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\bin\Debug\cw1n.exe.config
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\bin\Debug\cw1n.exe
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\bin\Debug\cw1n.pdb
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\obj\Debug\cw1n.csproj.AssemblyReference.cache
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\obj\Debug\cw1n.csproj.CoreCompileInputs.cache
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\obj\Debug\cw1n.exe
+c:\Users\User\Praca\Dydaktyka\Rok2021_2022\PO\TestyDokumentacja\cw1n\obj\Debug\cw1n.pdb

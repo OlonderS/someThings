@@ -1,0 +1,6 @@
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\bin\Debug\cwiczenia4.exe.config
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\bin\Debug\cwiczenia4.exe
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\bin\Debug\cwiczenia4.pdb
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\obj\Debug\cwiczenia4.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\obj\Debug\cwiczenia4.exe
+C:\Users\kamil\source\repos\cwiczenia4\cwiczenia4\obj\Debug\cwiczenia4.pdb
