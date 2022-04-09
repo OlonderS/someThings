@@ -1,0 +1,24 @@
+[DEFAULT]
+temp: ??.?, Niezdefiniowana
+cis: ?.?
+wil: ?.?
+ste: ?.?
+
+
+[POMIAR 1]
+temp:23.3, Pochmurno i wietrznie
+cis:  2.45
+wil:  3.45
+ste:  8.1
+
+[Pomiar 2]
+temp:21.5, Deszczowo
+cis:  12.45
+wil:  13.45
+ste:  7.8
+
+[Pomiar 3]
+temp: 22.0
+cis: 21.45
+wil: 31.45
+ste:  5.0
