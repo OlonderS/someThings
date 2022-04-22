@@ -52,6 +52,7 @@
                 $('header').show();
             }
         });
+
     </script>
   </head>
   <body style="margin: 0px; margin-top: 50px;">
@@ -126,27 +127,45 @@
         </div>
         <hr />
       </div>
+
       <div class="container" id="sekcja2">
         <h1>Grupa A</h1>
         <h2>5. kolejka</h2>
         <div class="images-container">
           <div class="card">
             <div class="image-box">
-              <img
-              alt="MŚ 2022"
-              src="Images/losowanie.jpg"
-            />
-
+              <div class="mySlides">
+                <img src="Images/losowanie1.jpg" alt="">
+              </div>
+              
+              <div class="mySlides">
+                <img src="Images/losowanie2.jpg" alt="">
+              </div>
             </div>
             <div class="content-card">
               <h2><a
                 href="https://elitesportshistory.com/world-cup-2022-qatar-european-qualifying-groups-drawn-and-the-ehs-prediction/"
               >Losowanie odbyło się rok temu</a
               ></h2>
-
             </div>
           </div>
         </div>
+        <script>
+          let slideIndex = 0;
+          showSlides();
+
+          function showSlides() {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) {slideIndex = 1}
+            slides[slideIndex-1].style.display = "block";
+            setTimeout(showSlides, 2000);
+          }
+        </script>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           <a
