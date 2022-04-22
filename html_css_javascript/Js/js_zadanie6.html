@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>Zadanie 6 - JavaScript</title>
+    <style>
+      .container {
+        max-width: 720px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .tile {
+        width: 200px;
+        margin: 20px;
+        height: 200px;
+        border-radius: 10%;
+        transition-duration: 0.5s;
+      }
+      .pink {
+        background-color: rgb(216, 35, 192);
+      }
+    </style>
+    <script>
+
+
+    document.querySelectorAll('.tile').forEach(div => {
+      div.addEventListener('click', () => {
+        if (div.clicked == true) {
+          div.style.transform = "rotate(0)";
+          div.clicked = false;
+        } else {
+          div.style.transform = "rotate(45deg)";
+          div.clicked = true;
+        }
+      });
+    });
+
+
+    </script>
+  </head>
+  <body>
+    <div id="main_container" class="container">
+      <div class="tile pink"></div>
+      <div class="tile pink"></div>
+      <div class="tile pink"></div>
+      <div class="tile pink"></div>
+      <div class="tile pink"></div>
+      <div class="tile pink"></div>
+    </div>
+
+    <script>
+        function obroc() {
+            document.querySelectorAll('.tile').forEach(tile => {
+                tile.addEventListener('click', () => {
+                    if (tile.clicked == true) {
+                        tile.style.transform = "rotate(0)";
+                        tile.clicked = false;
+                    }
+                    else {
+                        tile.style.transform = "rotate(45deg)";
+                        tile.clicked = true;
+                    }
+                });
+            });
+        }
+        obroc();
+    </script>
+  </body>
+</html>

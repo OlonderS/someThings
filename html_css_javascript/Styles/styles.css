@@ -24,15 +24,6 @@ a {
   color: red;
 }
 
-.obrazek img {
-  border-radius: 25px;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  filter: drop-shadow(2px 1px 3px darkgrey);
-}
-
 .container {
   width: 80%;
   min-height: 70vh;
@@ -44,27 +35,6 @@ a {
   padding-bottom: 1%;
   text-align: justify;
   text-justify: auto;
-}
-
-.photo-container {
-  background-color:  var(--szary_jasny);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 450px;
-  padding: 50px;
-  border-radius: 20px;
-  box-shadow: 2px 1px 3px darkgrey;
-}
-.obrazek {
-  margin: 15px;
-  padding: 5px;
-  padding-bottom: 25px;
-  border: 3px solid black;
-  border-radius: 25px 25px;
-  text-align: center;
-  background-color: var(--szary_ciemny);
 }
 
 header,
@@ -107,6 +77,7 @@ td {
 }
 
 hr {
+  margin-top: 5px;
   border: 1px solid red;
   width: 80%;
 }
@@ -169,7 +140,7 @@ a:focus {
 }
 .Landing_Page img{
   height: 100vh;
-  width: 100%
+  width: 100%;
 }
 
 @keyframes appear {
@@ -194,4 +165,74 @@ a:focus {
 .nazwa:hover, .logo:hover {
   animation-name: rotate;
   animation-duration: 2s;
+}
+
+.images-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  margin: 15px;
+  padding-bottom: 25px;
+  border: 3px solid black;
+  border-radius: 25px 25px;
+  background-color: var(--szary_ciemny);
+}
+.images-container .card {
+  width: 90%;
+  min-height: 100px;
+  background-color: var(--szary);
+  margin: 20px 5px;
+  padding: 20px 5px;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+  transition: 0.3s ease-in-out;
+}
+.images-container .card:hover {
+  max-height:450px;
+  background-color: var(--szary_jasny);
+}
+.images-container .card .image-box {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  max-width: 900px;
+  max-height: 600px;
+  top: -60px;
+  z-index: 1;
+
+}
+.images-container .card .image-box img {
+  position: flex;
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+
+}
+.images-container .card .content-card {
+  position: relative;
+  margin-top: -140px;
+  padding: 10px 15px;
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+
+}
+.images-container .card:hover .content-card {
+  margin-top: -40px;
+  color: black;
+  visibility: visible;
+  opacity: 1;
+}
+
+.nav-top a {
+  background-color: var(--szary);
+  border-radius: 10px;
+  padding: 7px;
 }

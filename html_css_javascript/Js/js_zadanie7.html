@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>Zadanie 7 - JavaScript</title>
+    <style></style>
+    <script></script>
+  </head>
+  <body onload="draw_square_on_canvas()">
+    <canvas
+      style="border: 1px solid black"
+      id="canwas"
+      width="610"
+      height="610"
+    ></canvas>
+    <script>
+      function draw_square_on_canvas() {
+        let canvas = document.querySelector("canvas");
+        let context = canvas.getContext("2d");
+
+        let x = 0;
+        let y = 0;
+        let width = 100;
+        let height = 100;
+        let i_width = 70;
+        let i_height = 70;
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        context.lineWidth = 4;
+        for (let i = 0; i < 5; i++) {
+            for (let j = 0; j < 5; j++) {
+                context.lineWidth = 4;
+                context.strokeStyle = "black";
+                context.beginPath();
+                context.rect((width+25)*j+5, (width+25)*i+5, width, height);
+                context.stroke();
+                if (0.5 <= Math.random()) {
+                    context.lineWidth = 2;
+                    context.strokeStyle = "grey";
+                    context.beginPath();
+                    context.rect((width + 25) * j + 20, (height + 25) * i + 20, i_width, i_height);
+                    context.stroke();
+                }
+            }
+          }
+        setTimeout(draw_square_on_canvas, 2500);
+      }
+
+
+    </script>
+  </body>
+</html>

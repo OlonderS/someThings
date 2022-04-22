@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>Zadanie 5 - JavaScript</title>
+    <style></style>
+    <script></script>
+  </head>
+  <body>
+    <script>
+      const lista = ["jablko", "gruszka", "ananas", "porzeczka", "schabowy"]
+
+      function wypiszFor(lista) {
+        for (let i = 0; i<lista.length; i++)
+          console.log(lista[i]);
+      }
+
+      function wypiszForEach(lista) {
+        lista.forEach(x=>console.log(x));
+      }
+
+      function wypiszLosowo(lista) {
+        for (let i = lista.length - 1; i > 0; i--) {
+          let j = Math.floor(Math.random() * (i + 1));
+          [lista[i], lista[j]] = [lista[j], lista[i]];
+        }
+        wypiszForEach(lista);
+      }
+
+      wypiszLosowo(lista);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>Zadanie 8 - JavaScript</title>
+    <style>
+      #image_container {
+        /*
+        Te właściwości możesz dowolnie zmienić.
+        Według wielkości twoich obrazków.
+        */
+        width: 800px;
+        height: 600px;
+        background-color: black;
+        box-shadow: 0 0 5px 5px black;
+      }
+    </style>
+    <script></script>
+  </head>
+  <body>
+    <div id="image_container">
+      <img id="slide">
+      <img src="./Images/obrazek1.jpg" alt="" style="display: none;">
+      <img src="./Images/obrazek2.jpg" alt="" style="display: none;" ;>
+      <img src="./Images/obrazek3.jpg" alt="" style="display: none;">
+      <img src="./Images/obrazek4.jpg" alt="" style="display: none;">
+    </div>
+    <script>
+      const photos = ["./Images/obrazek1.jpg", "./Images/obrazek2.jpg", "./Images/obrazek3.jpg", "./Images/obrazek4.jpg"]
+      const imge = document.querySelector('#slide');
+      let tmp = 0;
+      const switch_img = () => {
+
+        let i = Math.random();
+        if (i < 0.25) {
+          tmp = 0;
+        }
+        if (i < 0.5 && i >= 0.25) {
+          tmp = 1;
+        }
+        if (i < 0.75 && i >= 0.5) {
+          tmp = 2;
+        }
+        if (i < 1 && i >= 0.75) {
+          tmp = 3;
+        }
+        imge.src = photos[tmp];
+      }
+      window.onload = function () {
+        setInterval(switch_img, 2000);
+      }
+
+    </script>
+  </body>
+</html>

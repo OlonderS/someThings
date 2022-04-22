@@ -11,48 +11,47 @@
     <link rel="shortcut icon" href="Images/ikonka.jpg" />
     <link rel="stylesheet" media="screen" href="Styles/styles.css" />
     <link rel="stylesheet" media="screen" href="Styles/styl_menu_gorne.css" />
-    <link href="/styles/all.css" rel="stylesheet" />
-    <script src="zegar.js"></script>
+    <script src="Js/zegar.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://kit.fontawesome.com/f5f39b61bf.js" crossorigin="anonymous"></script>
     <title>Zajecia 1</title>
     <style></style>
     <script>
       $(document).ready(function(){
-        $(".toSec1").click(function() {
-          $([document.documentElement, document.body]).animate({
-           scrollTop: $("#sekcja1").offset().top-50}, 1000);
+          $(".toSec1").click(function() {
+            $([document.documentElement, document.body]).animate({
+            scrollTop: $("#sekcja1").offset().top-25}, 1000);
+          });
         });
-      });
-      $(document).ready(function(){
-        $(".toSec2").click(function() {
-          $([document.documentElement, document.body]).animate({
-           scrollTop: $("#sekcja2").offset().top-50}, 1000);
+        $(document).ready(function(){
+          $(".toSec2").click(function() {
+            $([document.documentElement, document.body]).animate({
+            scrollTop: $("#sekcja2").offset().top-25}, 1000);
+          });
         });
-      });
-      $(document).ready(function(){
-        $(".toSec3").click(function() {
-          $([document.documentElement, document.body]).animate({
-           scrollTop: $("#sekcja3").offset().top-50}, 1000);
+        $(document).ready(function(){
+          $(".toSec3").click(function() {
+            $([document.documentElement, document.body]).animate({
+            scrollTop: $("#sekcja3").offset().top-25}, 1000);
+          });
         });
-      });
-      $(document).ready(function(){
-        $(".toSec4").click(function() {
-          $([document.documentElement, document.body]).animate({
-           scrollTop: $("#sekcja4").offset().top-50}, 1000);
+        $(document).ready(function(){
+          $(".toSec4").click(function() {
+            $([document.documentElement, document.body]).animate({
+            scrollTop: $("#sekcja4").offset().top-25}, 1000);
+          });
         });
-      });
-      $(window).scroll(function () {
-          var height = $(window).scrollTop();
-          if (height > 600) {
-              $('.side-menu-container').show();
-              $('header').hide();
-          }
-          else{
-              $('.side-menu-container').hide();
-              $('header').show();
-          }
-      });
+        $(window).scroll(function () {
+            var height = $(window).scrollTop();
+            if (height > 600) {
+                $('.side-menu-container').show();
+                $('header').hide();
+            }
+            else{
+                $('.side-menu-container').hide();
+                $('header').show();
+            }
+        });
     </script>
   </head>
   <body style="margin: 0px; margin-top: 50px;">
@@ -99,8 +98,6 @@
       />
     </div>
     <div class="container-main container">
-
-
       <div class="container" id="sekcja1">
         <h1>5 i 6 kolejka kwalifikacji</h1>
         <p>
@@ -110,29 +107,45 @@
           commodo risus. Praesent egestas rutrum orci, sit amet imperdiet magna
           posuere quis. Maecenas aliquam nisl aliquam fermentum malesuada.
         </p>
-        <div class="obrazek">
-          <img
-            alt="MŚ 2022"
-            src="https://besthqwallpapers.com/Uploads/13-12-2021/187647/fifa-world-cup-qatar-2022-3d-logo-4k-purple-brickwall-creative-fifa-world-cup.jpg"
-          />
-          <a href="https://besthqwallpapers.com/tos/download/original/187647"
-            >Takie grafiki jak ta znajdziesz tutaj</a
-          >
+        <div class="images-container">
+          <div class="card">
+            <div class="image-box">
+              <img
+              alt="MŚ 2022"
+              src="Images/grafika.jpg" />
+
+            </div>
+            <div class="content-card">
+              <h2><a
+                href="https://www.sportingnews.com/in/soccer/news/fifa-world-cup-which-teams-have-qualified/86nbyru9dkh41ii7s800gjwav"
+              >Mistrzostwa Świata już w listopadzie</a
+              ></h2>
+
+            </div>
+          </div>
         </div>
         <hr />
       </div>
       <div class="container" id="sekcja2">
         <h1>Grupa A</h1>
         <h2>5. kolejka</h2>
-        <div class="obrazek">
-          <img
-            alt="MŚ 2022"
-            src="https://elitesportshistory.com/wp-content/uploads/2020/12/European-world-cup-qual-groups.jpg"
-          />
-          <a
-            href="https://elitesportshistory.com/world-cup-2022-qatar-european-qualifying-groups-drawn-and-the-ehs-prediction/"
-            >Losowanie odbyło się rok temu</a
-          >
+        <div class="images-container">
+          <div class="card">
+            <div class="image-box">
+              <img
+              alt="MŚ 2022"
+              src="Images/losowanie.jpg"
+            />
+
+            </div>
+            <div class="content-card">
+              <h2><a
+                href="https://elitesportshistory.com/world-cup-2022-qatar-european-qualifying-groups-drawn-and-the-ehs-prediction/"
+              >Losowanie odbyło się rok temu</a
+              ></h2>
+
+            </div>
+          </div>
         </div>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
