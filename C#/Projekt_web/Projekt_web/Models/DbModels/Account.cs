@@ -19,7 +19,6 @@ namespace Projekt_web.Models.DbModels
         public string Password { get; set; }
 
     }
-
     public class Register
     {
         [Required]

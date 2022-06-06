@@ -8,14 +8,15 @@ namespace Projekt_web.Models.DbModels
 {
     public class Library
     {
-        public int LibraryId { get; set; }
-        public string Name { get; set; }
-        public List<Book> Books { get; set; }
-        public List<User> Users { get; set; }
+        public static int LibraryId;
+        public static string Name;
+        public static List<Book> Books;
+        public static List<User> Users;
 
         static Library()
         {
             List<Book> Books = new List<Book>();
+            Name = "Biblioteka";
         }
         public override string ToString()
         {

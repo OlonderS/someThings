@@ -1,4 +1,5 @@
 ﻿using Projekt_web.Models;
+using Projekt_web.Models.DbModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +10,11 @@ namespace Projekt_web.Controllers
 {
     public class UserController : Controller
     {
+
         public ActionResult Rent(int? id)
         {
             Book book;
+            // Session["UserId"] = 1; odwołanie Session["UserId"]
             using (DatabaseContext db = new DatabaseContext())
                 book = db.Books.FirstOrDefault(x => x.BookId == id);
 
@@ -24,12 +27,11 @@ namespace Projekt_web.Controllers
             using (DatabaseContext db = new DatabaseContext())
             {
                 Book book = db.Books.FirstOrDefault(x => x.BookId == id);
-                db.RentedBooks.Add(new RentedBook(1, 1, 1, DateTime.Now));
+                db.RentedBooks.Add(new RentedBook(1, (int)id, 1));
                 book.Available = false;
 
                 db.SaveChanges();
             }
-
             return RedirectToAction("ViewAll");
         }
 
@@ -38,7 +40,6 @@ namespace Projekt_web.Controllers
             RentedBook book;
             using (DatabaseContext db = new DatabaseContext())
                 book = db.RentedBooks.FirstOrDefault(x => x.BookId == id);
-
             return View(book);
         }
 
@@ -53,7 +54,6 @@ namespace Projekt_web.Controllers
                 book.Available = true;
                 db.SaveChanges();
             }
-
             return RedirectToAction("ViewAll");
         }
     }

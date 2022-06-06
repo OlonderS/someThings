@@ -12,10 +12,11 @@ namespace Projekt_web.Models
         public DatabaseContext() : base("Projekt_webConnectionString") { }
         public DbSet<Book> Books { get; set; }
         public DbSet<RentedBook> RentedBooks { get; set; }
+
         public DbSet<Library> Libraries { get; set; }
 
-        public System.Data.Entity.DbSet<Projekt_web.Models.DbModels.Publisher> Publishers { get; set; }
+        public DbSet<Publisher> Publishers { get; set; }
 
-        public System.Data.Entity.DbSet<Projekt_web.Models.DbModels.User> Users { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

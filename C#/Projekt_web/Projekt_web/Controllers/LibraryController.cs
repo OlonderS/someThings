@@ -14,7 +14,7 @@ namespace Projekt_web.Controllers
         {
             Library library;
             using (DatabaseContext db = new DatabaseContext())
-                library = db.Libraries.FirstOrDefault(a => a.LibraryId == id);
+                library = db.Libraries.FirstOrDefault(a => Library.LibraryId == 1);
             return View(library);
         }
     }

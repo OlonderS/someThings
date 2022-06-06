@@ -13,12 +13,12 @@ namespace Projekt_web.Models
         {
         }
 
-        public RentedBook(int rentedBookId, int bookId, int userId, DateTime rentDate)
+        public RentedBook(int rentedBookId, int bookId, int userId)
         {
             RentedBookId = rentedBookId;
             BookId = bookId;
             UserId = userId;
-            RentDate = rentDate;
+            RentDate = DateTime.Now;
         }
         public virtual Book Book { get; set; }
         public virtual User User { get; set; }

@@ -1,0 +1,16 @@
+﻿@model BookApp.Models.DbModels.Author
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+@Html.DisplayNameFor(model => model.Name)
+@Html.DisplayFor(model => model.Name)
+@Html.DisplayNameFor(model => model.AuthorId)
+@Html.DisplayFor(model => model.AuthorId)
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AuthorId }) |
+    @Html.ActionLink("Back to List", "ViewAll")
+</p>
