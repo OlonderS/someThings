@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Pagea";
+}
+
+<div class="jumbotron">
+    <img src=" logo4.png" alt="logo" style="height: 200px; width: 200px; float: right; margin-bottom: 50px;">
+    <h1>Nasza SuperBiblioteka</h1>
+    @if (Session["UserId"] != null)
+    {
+        <p class="lead">Witaj w naszej bibliotece.</p>
+        <div class="form-actions no-color">
+            @Html.ActionLink("Wypożycz książke", "ViewAll", "Book")
+        </div>
+        <div class="form-actions no-color">
+            @Html.ActionLink("Moje książki", "ViewAll", "User")
+        </div>
+    }
+    else 
+    {
+        <p class="lead">Aby w pełni korzystać z biblioteki zaloguj się lub zarejetstruj.</p>   
+        <div class="form-actions no-color">
+            @Html.ActionLink("Zaloguj", "Login", "Home")
+        </div>
+        <div class="form-actions no-color">
+            @Html.ActionLink("Zarejestruj", "Create", "User")
+        </div>
+    }
+</div>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Github</h2>
+        <p><a class="btn btn-default" href="https://github.com/OlonderS/someThings">Zobacz kod źródłowy &raquo;</a></p>
+    </div>
+    <div class="col-md-6">
+        <h2>Dysk Google</h2>
+        <p><a class="btn btn-default" href="https://drive.google.com/drive/u/0/my-drive">Przeczytaj dokumentację &raquo;</a></p>
+    </div>
+</div>

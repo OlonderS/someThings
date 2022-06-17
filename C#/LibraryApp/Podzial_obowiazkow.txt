@@ -1,0 +1,5 @@
+Podział obowiązków pracy:
+Kamil Kućma: Stworzenie modeli, części kontrolerów i widoków, część dokumentacji
+Piotr Marszałek: Stworzenie seeda,system rejestracji i logowania, część kontrolerów, część dokumentacji
+(Zadania się nakładają/mieszają ale dużo rzeczy robiliśmy wspólnie)
+Krzysztof Księżyc: Cel projektu, zastosowanie biznesowe, instrukcja użytkownika opisująca korzystanie z aplikacji.

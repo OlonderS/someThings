@@ -1,0 +1,45 @@
+﻿<head>
+    <script src="zegar.js"></script>
+    <style>
+      #zegar {
+        width: 620px;
+        height: 40px;
+        font-size: 1.2em;
+        display: flex;
+        justify-content: right;
+        align-items: flex-end;
+        color: lightgray;
+      }
+
+    </style>
+</head>
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("SuperBiblioteka", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Książki", "ViewAll", "Book")</li>
+                <li>@Html.ActionLink("Moje Książki", "ViewAll", "User")</li>
+                @if (Session["UserId"] != null)
+                {
+                    <li> @Html.ActionLink("Wyloguj", "LogOut", "Home")</li>
+
+                }
+                else
+                {
+                    <li>@Html.ActionLink("Zaloguj", "Login", "Home")</li>
+                    <li> @Html.ActionLink("Zajerestruj się", "Create", "User") </li>
+                }
+                <li id="zegar"></li>
+
+            </ul>
+        </div>
+    </div>
+</div>

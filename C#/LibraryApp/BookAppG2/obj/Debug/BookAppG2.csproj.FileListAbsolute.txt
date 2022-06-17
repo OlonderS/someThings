@@ -1,0 +1,548 @@
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\BookAppG2.dll.config
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\BookAppG2.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\BookAppG2.pdb
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csc.exe
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csc.exe.config
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csc.rsp
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csi.exe
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csi.exe.config
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\csi.rsp
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.AppContext.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Console.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.IO.Compression.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Net.Http.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.ValueTuple.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\vbc.exe
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\vbc.exe.config
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\vbc.rsp
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\VBCSCompiler.exe
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Antlr3.Runtime.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Newtonsoft.Json.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Helpers.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Mvc.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Optimization.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Razor.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.Razor.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\WebGrease.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Helpers.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Mvc.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Optimization.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.Razor.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\System.Web.WebPages.Razor.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Newtonsoft.Json.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Antlr3.Runtime.pdb
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\obj\Debug\BookAppG2.csproj.AssemblyReference.cache
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\obj\Debug\BookAppG2.csproj.CoreCompileInputs.cache
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\obj\Debug\BookAppG2.dll
+C:\Users\twier\source\repos\BookAppG2\BookAppG2\obj\Debug\BookAppG2.pdb
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\BookAppG2.dll.config
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\BookAppG2.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\BookAppG2.pdb
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csc.exe
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csc.exe.config
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csc.rsp
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csi.exe
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csi.exe.config
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\csi.rsp
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.AppContext.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Console.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\vbc.exe
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\vbc.exe.config
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\vbc.rsp
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Antlr3.Runtime.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\EntityFramework.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Helpers.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Mvc.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Optimization.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Razor.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\WebGrease.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\EntityFramework.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Helpers.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Mvc.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Optimization.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.Razor.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Antlr3.Runtime.pdb
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.dll
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.pdb
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.Migrations.First.resources
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.Migrations.Updatdatabse.resources
+C:\Users\admin\source\repos\Ćwiczenia2.0\Ćwiczenia2\BookAppG2\obj\Debug\BookAppG2.Migrations._2ndMigration.resources
+D:\C#\BookAppG2\bin\BookAppG2.dll.config
+D:\C#\BookAppG2\bin\BookAppG2.dll
+D:\C#\BookAppG2\bin\BookAppG2.pdb
+D:\C#\BookAppG2\bin\roslyn\csc.exe
+D:\C#\BookAppG2\bin\roslyn\csc.exe.config
+D:\C#\BookAppG2\bin\roslyn\csc.rsp
+D:\C#\BookAppG2\bin\roslyn\csi.exe
+D:\C#\BookAppG2\bin\roslyn\csi.exe.config
+D:\C#\BookAppG2\bin\roslyn\csi.rsp
+D:\C#\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\BookAppG2\bin\roslyn\System.AppContext.dll
+D:\C#\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\BookAppG2\bin\roslyn\System.Console.dll
+D:\C#\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C#\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+D:\C#\BookAppG2\bin\roslyn\System.IO.Compression.dll
+D:\C#\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C#\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\BookAppG2\bin\roslyn\System.Net.Http.dll
+D:\C#\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+D:\C#\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C#\BookAppG2\bin\roslyn\System.ValueTuple.dll
+D:\C#\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+D:\C#\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\BookAppG2\bin\roslyn\vbc.exe
+D:\C#\BookAppG2\bin\roslyn\vbc.exe.config
+D:\C#\BookAppG2\bin\roslyn\vbc.rsp
+D:\C#\BookAppG2\bin\roslyn\VBCSCompiler.exe
+D:\C#\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\BookAppG2\bin\Antlr3.Runtime.dll
+D:\C#\BookAppG2\bin\EntityFramework.dll
+D:\C#\BookAppG2\bin\EntityFramework.SqlServer.dll
+D:\C#\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\BookAppG2\bin\Newtonsoft.Json.dll
+D:\C#\BookAppG2\bin\System.Web.Helpers.dll
+D:\C#\BookAppG2\bin\System.Web.Mvc.dll
+D:\C#\BookAppG2\bin\System.Web.Optimization.dll
+D:\C#\BookAppG2\bin\System.Web.Razor.dll
+D:\C#\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+D:\C#\BookAppG2\bin\System.Web.WebPages.dll
+D:\C#\BookAppG2\bin\System.Web.WebPages.Razor.dll
+D:\C#\BookAppG2\bin\WebGrease.dll
+D:\C#\BookAppG2\bin\EntityFramework.xml
+D:\C#\BookAppG2\bin\EntityFramework.SqlServer.xml
+D:\C#\BookAppG2\bin\System.Web.Helpers.xml
+D:\C#\BookAppG2\bin\System.Web.Mvc.xml
+D:\C#\BookAppG2\bin\System.Web.Optimization.xml
+D:\C#\BookAppG2\bin\System.Web.Razor.xml
+D:\C#\BookAppG2\bin\System.Web.WebPages.xml
+D:\C#\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+D:\C#\BookAppG2\bin\System.Web.WebPages.Razor.xml
+D:\C#\BookAppG2\bin\Newtonsoft.Json.xml
+D:\C#\BookAppG2\bin\Antlr3.Runtime.pdb
+D:\C#\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+D:\C#\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+D:\C#\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+D:\C#\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+D:\C#\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\C#\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\C#\BookAppG2\obj\Debug\BookAppG2.csprojAssemblyReference.cache
+D:\C#\BookAppG2\obj\Debug\BookAppG2.Migrations.First.resources
+D:\C#\BookAppG2\obj\Debug\BookAppG2.Migrations.Updatdatabse.resources
+D:\C#\BookAppG2\obj\Debug\BookAppG2.Migrations._2ndMigration.resources
+D:\C#\BookAppG2\obj\Debug\BookAppG2.csproj.GenerateResource.cache
+D:\C#\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+D:\C#\BookAppG2\obj\Debug\BookAppG2.dll
+D:\C#\BookAppG2\obj\Debug\BookAppG2.pdb
+D:\C# — kopia\BookAppG2\bin\BookAppG2.dll.config
+D:\C# — kopia\BookAppG2\bin\BookAppG2.dll
+D:\C# — kopia\BookAppG2\bin\BookAppG2.pdb
+D:\C# — kopia\BookAppG2\bin\roslyn\csc.exe
+D:\C# — kopia\BookAppG2\bin\roslyn\csc.exe.config
+D:\C# — kopia\BookAppG2\bin\roslyn\csc.rsp
+D:\C# — kopia\BookAppG2\bin\roslyn\csi.exe
+D:\C# — kopia\BookAppG2\bin\roslyn\csi.exe.config
+D:\C# — kopia\BookAppG2\bin\roslyn\csi.rsp
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.AppContext.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Console.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Net.Http.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.ValueTuple.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# — kopia\BookAppG2\bin\roslyn\vbc.exe
+D:\C# — kopia\BookAppG2\bin\roslyn\vbc.exe.config
+D:\C# — kopia\BookAppG2\bin\roslyn\vbc.rsp
+D:\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe
+D:\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+D:\C# — kopia\BookAppG2\bin\Antlr3.Runtime.dll
+D:\C# — kopia\BookAppG2\bin\EntityFramework.dll
+D:\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.dll
+D:\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# — kopia\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+D:\C# — kopia\BookAppG2\bin\Newtonsoft.Json.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.Helpers.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.Mvc.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.Optimization.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.Razor.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.dll
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.dll
+D:\C# — kopia\BookAppG2\bin\WebGrease.dll
+D:\C# — kopia\BookAppG2\bin\EntityFramework.xml
+D:\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.Helpers.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.Mvc.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.Optimization.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.Razor.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+D:\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.xml
+D:\C# — kopia\BookAppG2\bin\Newtonsoft.Json.xml
+D:\C# — kopia\BookAppG2\bin\Antlr3.Runtime.pdb
+D:\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csprojAssemblyReference.cache
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.dll
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.pdb
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.First.resources
+D:\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\BookAppG2.dll.config
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\BookAppG2.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\BookAppG2.pdb
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csc.exe
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csc.exe.config
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csc.rsp
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csi.exe
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csi.exe.config
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\csi.rsp
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.AppContext.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Console.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\vbc.exe
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\vbc.exe.config
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\vbc.rsp
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Antlr3.Runtime.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\EntityFramework.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Helpers.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Mvc.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Optimization.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Razor.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\WebGrease.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\EntityFramework.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Helpers.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Mvc.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Optimization.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.Razor.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Antlr3.Runtime.pdb
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.First.resources
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.dll
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.pdb
+C:\Users\admin\source\repos\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.ez.resources
+D:\aaa\C# — kopia\BookAppG2\bin\BookAppG2.dll.config
+D:\aaa\C# — kopia\BookAppG2\bin\BookAppG2.dll
+D:\aaa\C# — kopia\BookAppG2\bin\BookAppG2.pdb
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csc.exe
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csc.exe.config
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csc.rsp
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csi.exe
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csi.exe.config
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\csi.rsp
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.AppContext.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Collections.Immutable.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Console.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Globalization.Calendars.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Net.Http.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Net.Sockets.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Reflection.Metadata.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.ValueTuple.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\vbc.exe
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\vbc.exe.config
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\vbc.rsp
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe
+D:\aaa\C# — kopia\BookAppG2\bin\roslyn\VBCSCompiler.exe.config
+D:\aaa\C# — kopia\BookAppG2\bin\Antlr3.Runtime.dll
+D:\aaa\C# — kopia\BookAppG2\bin\EntityFramework.dll
+D:\aaa\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.dll
+D:\aaa\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\aaa\C# — kopia\BookAppG2\bin\Microsoft.Web.Infrastructure.dll
+D:\aaa\C# — kopia\BookAppG2\bin\Newtonsoft.Json.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Helpers.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Mvc.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Optimization.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Razor.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.dll
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.dll
+D:\aaa\C# — kopia\BookAppG2\bin\WebGrease.dll
+D:\aaa\C# — kopia\BookAppG2\bin\EntityFramework.xml
+D:\aaa\C# — kopia\BookAppG2\bin\EntityFramework.SqlServer.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Helpers.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Mvc.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Optimization.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.Razor.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.Deployment.xml
+D:\aaa\C# — kopia\BookAppG2\bin\System.Web.WebPages.Razor.xml
+D:\aaa\C# — kopia\BookAppG2\bin\Newtonsoft.Json.xml
+D:\aaa\C# — kopia\BookAppG2\bin\Antlr3.Runtime.pdb
+D:\aaa\C# — kopia\BookAppG2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.Helpers.resources.dll
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.Mvc.resources.dll
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.Razor.resources.dll
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.resources.dll
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\aaa\C# — kopia\BookAppG2\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csprojAssemblyReference.cache
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.First.resources
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.ez.resources
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.GenerateResource.cache
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.csproj.CopyComplete
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.dll
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.pdb
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.Third.resources
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.Fourth.resources
+D:\aaa\C# — kopia\BookAppG2\obj\Debug\BookAppG2.Migrations.Fifth.resources

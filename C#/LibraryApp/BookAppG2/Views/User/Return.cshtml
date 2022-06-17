@@ -1,0 +1,19 @@
+﻿@model BookAppG2.Models.DbModels.RentedBook
+
+@{
+    ViewBag.Title = "Zwacanie książki";
+}
+
+<h3>Pomyslnie oddano</h3>
+<div>
+    
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+           |
+            @Html.ActionLink("Powróć do mojej listy książek", "ViewAll")
+        </div>
+    }
+</div>
